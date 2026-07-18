@@ -6,3 +6,4 @@
 //Correccion de error en la tabla al no mostrar los datos correctamente, se aumenta la columna de proveedores.
 //Servicio de inventario actualizado para incluir proveedores en la respuesta de la API.
 //Se agrega funcionalidad de busqueda en la tabla de inventario, permitiendo filtrar por nombre y descripcion.
+//Se agrega funcionalidad para los filtros, permitiendo filtrar por cantidad, precio y fecha de ingreso.
