@@ -8,3 +8,4 @@
 //Se agrega funcionalidad de busqueda en la tabla de inventario, permitiendo filtrar por nombre y descripcion.
 //Se agrega funcionalidad para los filtros, permitiendo filtrar por cantidad, precio y fecha de ingreso.  { conflicto resuelto }
 //Se agrega funcionalidad de paginacion en la tabla de inventario, permitiendo navegar entre diferentes paginas de resultados. { conflicto resuelto }
+//Mejora de la UI y agregar colores de marca.
