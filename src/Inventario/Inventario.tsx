@@ -9,3 +9,4 @@
 //Se agrega funcionalidad para los filtros, permitiendo filtrar por cantidad, precio y fecha de ingreso.  { conflicto resuelto }
 //Se agrega funcionalidad de paginacion en la tabla de inventario, permitiendo navegar entre diferentes paginas de resultados. { conflicto resuelto }
 //Mejora de la UI y agregar colores de marca.
+//Se agrega funcionalidad de exportar a excel y pdf, permitiendo descargar los datos de inventario en diferentes formatos.
