@@ -3,3 +3,4 @@
 //Añadir columnas a la tabla: Id, Nombre, Descripcion, Cantidad, Precio, Fecha de ingreso, Fecha de vencimiento, Acciones (Editar y Eliminar).
 //Creacion de servicio para consumir datos de inventario desde la API.
 //Creacion de hook para consumir el servicio de inventario y manejar el estado de los datos.
+//Correccion de error en la tabla al no mostrar los datos correctamente, se aumenta la columna de proveedores.
