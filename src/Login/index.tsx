@@ -7,3 +7,4 @@
 //Durante las pruebas se realizan cambios temporales en la validación del login para verificar el funcionamiento del sistema.
 //Se identifica que la modificación realizada permite acceder al sistema sin validar correctamente la contraseña, representando un riesgo de seguridad.
 //Se revierte el proyecto al commit donde el proceso de autenticación funcionaba correctamente antes de introducir la vulnerabilidad.
+//Se implementa una solución definitiva, se restablece la validación correcta del usuario y contraseña y se mantiene la autenticación de dos factores.
