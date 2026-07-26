@@ -6,3 +6,4 @@
 //Después de validar usuario y contraseña, el sistema solicita un código de verificación enviado al teléfono móvil.
 //Durante las pruebas se realizan cambios temporales en la validación del login para verificar el funcionamiento del sistema.
 //Se identifica que la modificación realizada permite acceder al sistema sin validar correctamente la contraseña, representando un riesgo de seguridad.
+//Se revierte el proyecto al commit donde el proceso de autenticación funcionaba correctamente antes de introducir la vulnerabilidad.
